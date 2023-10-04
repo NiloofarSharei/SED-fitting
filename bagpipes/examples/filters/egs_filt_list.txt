@@ -1,0 +1,17 @@
+filters/CFHT_u
+filters/CFHT_g
+filters/CFHT_r
+filters/CFHT_i
+filters/CFHT_z
+filters/F606W
+filters/F814W
+filters/F125W
+filters/F140W
+filters/F160W
+filters/WIRCAM_J
+filters/WIRCAM_H
+filters/WIRCAM_K
+filters/IRAC1
+filters/IRAC2
+filters/IRAC3
+filters/IRAC4 
